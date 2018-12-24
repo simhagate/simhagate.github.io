@@ -13,7 +13,7 @@ title: Home
     </div>
     <div class="row">
         
-    {% for post in site.posts_cdsa %}
+    {% for post in site._posts_cdsa %}
 
         {% if post.featured == true %}
 
@@ -40,7 +40,7 @@ title: Home
     
     <div class="row listrecent">
 
-        {% for post in paginator.posts_cdsa %}
+        {% for post in paginator._posts_cdsa %}
 
                {% include postbox.html %}          
 
