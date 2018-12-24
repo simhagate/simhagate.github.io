@@ -74,7 +74,71 @@
                 {% else %}
                 <li class="nav-item">
                 {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/index.html">Blog</a>
+                <a class="nav-link" href="{{ site.baseurl }}/index.html">General</a>
+                </li>
+                
+                {% if page.url == "/" %}
+                <li class="nav-item active">
+                {% else %}
+                <li class="nav-item">
+                {% endif %}
+                <a class="nav-link" href="{{ site.baseurl }}/cdsa.html">C DS&nbsp;A</a>
+                </li>
+                
+                {% if page.url == "/" %}
+                <li class="nav-item active">
+                {% else %}
+                <li class="nav-item">
+                {% endif %}
+                <a class="nav-link" href="{{ site.baseurl }}/toc.html">TOC</a>
+                </li>
+                
+                {% if page.url == "/" %}
+                <li class="nav-item active">
+                {% else %}
+                <li class="nav-item">
+                {% endif %}
+                <a class="nav-link" href="{{ site.baseurl }}/cd.html">CD</a>
+                </li>
+                
+                {% if page.url == "/" %}
+                <li class="nav-item active">
+                {% else %}
+                <li class="nav-item">
+                {% endif %}
+                <a class="nav-link" href="{{ site.baseurl }}/dl.html">DL</a>
+                </li>
+                
+                {% if page.url == "/" %}
+                <li class="nav-item active">
+                {% else %}
+                <li class="nav-item">
+                {% endif %}
+                <a class="nav-link" href="{{ site.baseurl }}/dbms.html">DBMS</a>
+                </li>
+                
+                {% if page.url == "/" %}
+                <li class="nav-item active">
+                {% else %}
+                <li class="nav-item">
+                {% endif %}
+                <a class="nav-link" href="{{ site.baseurl }}/coa.html">COA</a>
+                </li>
+                
+                {% if page.url == "/" %}
+                <li class="nav-item active">
+                {% else %}
+                <li class="nav-item">
+                {% endif %}
+                <a class="nav-link" href="{{ site.baseurl }}/cn.html">CN</a>
+                </li>
+                
+                {% if page.url == "/" %}
+                <li class="nav-item active">
+                {% else %}
+                <li class="nav-item">
+                {% endif %}
+                <a class="nav-link" href="{{ site.baseurl }}/os.html">OS</a>
                 </li>
                 
                 {% if page.url == "/about.html" %}
@@ -85,21 +149,9 @@
                 <a class="nav-link" href="{{ site.baseurl }}/about">About</a>
                 </li>
 		 
-		 {% if page.url == "https://starksources.github.io/computer-science" %}
-                <li class="nav-item active">
-                {% else %}
-                <li class="nav-item">
-                {% endif %}
-                <a class="nav-link" href="https://starksources.github.io/computer-science">CS</a>
-                </li>
+		 
 		    
-		    {% if page.url == "https://starksources.github.io/data-science/" %}
-                <li class="nav-item active">
-                {% else %}
-                <li class="nav-item">
-                {% endif %}
-                <a class="nav-link" href="https://starksources.github.io/data-science/">DataScience</a>
-                </li>
+		    
 		    
 		<!-- <li class="nav-item active">
                 <a href="https://starksources.github.io/computer-science/"> CS</a>
