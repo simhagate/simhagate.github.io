@@ -3,6 +3,7 @@ layout: post
 title:  "GO classroom"
 author: sal
 categories: [ Useful, GATE ]
+tags: gate,gateoverflow
 image: assets/images/1.jpg
 ---
 The schedule followed in GO Classroom for GATE 2019
