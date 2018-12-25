@@ -51,6 +51,7 @@ jekyll-archives:
   enabled:
     - categories
   layout: default
+  output: true
   permalinks:
     category: /category:name/
     
