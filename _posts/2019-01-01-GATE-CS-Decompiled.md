@@ -65,7 +65,7 @@ Our Computer Science Subjects for GATE are classified into 3 main streams:
 |3. | General Aptitude | 5 Quesn's  |
 |4. | Verbal Ability |5 Quesn's |
 
-
+<hr>
 > **Note:** Every Subject is Important.!! Don't Leave any thing.
 
 
