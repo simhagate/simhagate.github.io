@@ -34,7 +34,7 @@ Our Computer Science Subjects for GATE are classified into 3 main streams:
 - General Aptitude
 - Verbal Ability
 
-## Computer: 
+## Computer
 
 |SNO | SUBJECT  | Expected No. of Quesn's (Avg) |
 |--|------ |----------|
@@ -45,7 +45,8 @@ Our Computer Science Subjects for GATE are classified into 3 main streams:
 |5. | Compiler Design |4 Quesn's|
 
 <hr>
-## Science:
+
+## Science
 
 |SNO | SUBJECT  | Expected No. of Quesn's (Avg) |
 |--|------ |----------|
@@ -56,6 +57,7 @@ Our Computer Science Subjects for GATE are classified into 3 main streams:
 |5. | Operating Systems | 5 Quesn's |
 
 <hr>
+
 ## Engineering:
 
 |SNO | SUBJECT  | Expected No. of Quesn's (Avg) |
