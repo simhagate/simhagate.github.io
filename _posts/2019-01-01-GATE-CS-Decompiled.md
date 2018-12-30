@@ -14,21 +14,21 @@ Our Computer Science Subjects for GATE are classified into 3 main streams:
 - Science
 - Engineering
 
-### [Computer](#Computer):
+[Computer](#Computer):
 - C Language
 - Data Structures
 - Algorithms
 - Theory of Computation
 - Compiler Design
 
-### [Science](#Science):
+[Science](#Science):
 - Digital Logic
 - Database Management Systems
 - Computer Organization
 - Computer Networks
 - Operating Systems
 
-### [Engineering](#Engineering):
+[Engineering](#Engineering):
 - Engineering Mathematics
 - Discrete Mathematics
 - General Aptitude
