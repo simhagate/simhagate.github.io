@@ -46,6 +46,7 @@ favicon: 'assets/images/logo.png'
 plugins: 
   - jekyll-paginate
   - jekyll-archives
+  - jekyll-seo-tag
     
 # Archives
 jekyll-archives:
@@ -59,7 +60,7 @@ jekyll-archives:
     category: '/category/:name/'
     
 # Pagination 
-paginate: 6
+paginate: 5
 paginate_path: /page:num/
     
 # Other
