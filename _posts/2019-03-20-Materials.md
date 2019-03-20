@@ -16,12 +16,10 @@ Material/Resources - Final
 ● https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/index.html
 
 ● CN:
-http://media.pearsoncmg.com/ph/streaming/esm/tanenbaum5e_videonotes/tanenbaum_vi
-deoNotes.html
+http://media.pearsoncmg.com/ph/streaming/esm/tanenbaum5e_videonotes/tanenbaum_videoNotes.html
 
 ● TOC: http://infolab.stanford.edu/~ullman/ialc/spr10/spr10.html
-● https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+SelfPaced/
-about
+● https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+SelfPaced/about
 
 ● CD: http://web.stanford.edu/class/archive/cs/cs143/cs143.1128
 
@@ -35,10 +33,8 @@ about
 Hackerearth
 
 ● ALGORITHMS:
-https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/cour
-se/
-● https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms2+SelfPaced/cour
-se/
+https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/course/
+● https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms2+SelfPaced/course/
 ● GFG, Hackerrank, LeetCode, Visualizer
 
 ● DATA STRUCTURES: http://cs.yale.edu/homes/aspnes/classes/223/notes.html
